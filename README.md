@@ -11,3 +11,4 @@ Translator is not final:
 - tests are not complete
 - some performance improvements are possible
 - probably not all edge cases tested
+- javadoc not complete
